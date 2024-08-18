@@ -1,0 +1,38 @@
+{
+     "validUser": {
+          "email": "prajapatizubisha@gmail.com",
+          "password": "brocade"
+     },
+     "searchValid": {
+          "searchTerm": "jacket"
+     },
+     "searchInvalid": {
+          "randomSearch": "food"
+     },
+    "invalidUser": {
+          "invalidEmail": {
+               "email": "prajapati@gmail.com",
+               "password": "brocade"
+          },
+          "invalidPassword": {
+               "email": "prajapatizubisha@gmail.com",
+               "password": "bro"
+          },
+          "invalidEmailandPassword": {
+               "email": "prajapati@gmail.com",
+               "password": "bro"
+          },
+          "emptyEmail": {
+               "email": "",
+               "password": "brocade"
+          },
+          "emptyPassword": {
+               "email": "prajapatizubisha@gmail.com",
+               "password": ""
+          },
+          "emptyEmailandPassword": {
+               "email": "",
+               "password": ""
+          }
+     }
+}
